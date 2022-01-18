@@ -6,7 +6,7 @@
 
 I like to use the following languages and tools:
 - 🐍 Python
-- 🕸️ Spyder IDE
+- 🕸️ Spyder
 - 💽 C++
 - ⌨️ Microsoft Visual Studio
 - 🗿 MATLAB
