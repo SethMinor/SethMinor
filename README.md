@@ -11,8 +11,3 @@ I like to use the following languages and tools for computational fun time:
 > `MATLAB`
 > `Maple`
 > `LaTeX`
-
-
-SethMinor/SethMinor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
