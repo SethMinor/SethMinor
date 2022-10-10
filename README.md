@@ -3,7 +3,7 @@
 > I’m currently studying applied mathematics at SDSU. 🌱
 > I can be reached at: sethominor@gmail.com
 
-I like to use the following languages and tools for computational fun time:
+I like to use the following languages and tools:
 > `Python`
 > `Spyder`
 > `C++`
