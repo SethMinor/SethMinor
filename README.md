@@ -6,7 +6,6 @@
 I like to use the following languages and tools:
 > `Python`
 > `Spyder`
-> `C++`
 > `Microsoft Visual Studio`
 > `MATLAB`
 > `Maple`
