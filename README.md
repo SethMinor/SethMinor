@@ -6,6 +6,6 @@
 I like to use the following languages:
 > `MATLAB`
 > `Python`
->  Mathematica
->  FreeFEM++
+> `Mathematica`
+> `FreeFEM++`
 > `LaTeX`
